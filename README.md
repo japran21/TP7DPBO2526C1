@@ -55,3 +55,6 @@ Bebas Query Mentah: Tidak ada eksekusi query mentah langsung seperti mysqli_quer
 Foreign Key Integrity: Setiap aksi DELETE pada tabel parent (users / counselors) akan secara otomatis mengalirkan penghapusan ke tabel stories (ON DELETE CASCADE).
 
 ## DOKUMENTASI
+
+https://github.com/user-attachments/assets/53290f32-b2b1-46a8-847f-1dac35e0260a
+
